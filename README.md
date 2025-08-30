@@ -1,4 +1,5 @@
 Prashant Naiker
+
 Full‑stack Software Engineer specializing in .NET Core and Angular, building AI‑powered, scalable products on Azure. AZ‑900 certified; AZ‑204 in progress. Open to collaborations and product ideas.
 
 Skills
