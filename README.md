@@ -31,17 +31,9 @@ Onboarding Integrations — Merge‑tag engine, ATS mappings (Bullhorn/Vincere),
 Strengthening Azure skills towards AZ‑204 and deploying personal projects.
 
 Contact
+
 Email: prashantnaiker9 [at] gmail [dot] com
 
 LinkedIn: linkedin.com/in/prashant-naiker-64655b239
 
 Portfolio: personal-projects-61423.web.app
-
-Notes
-
-Keep this repo public and named exactly the username so this README shows on the profile. If the username changes, rename or recreate the repo to match.
-
-After saving, pin 4–6 repos and ensure each has a clear project README with install, usage, features, and at least one screenshot or GIF.
-
-If preferred, a version with badges (tech stack via Shields) and a compact “toolbox” icon row can be provided next.
-
