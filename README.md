@@ -5,9 +5,9 @@ Full‑stack Software Engineer specializing in .NET Core and Angular, building A
 Skills
 Languages: C#, TypeScript, JavaScript
 
-Frameworks: .NET Core, ASP.NET, Angular
+Frameworks: .NET Core, ASP.NET, Angular 
 
-Cloud: Azure (AZ‑900; AZ‑204 in progress)
+Cloud: Azure ( AZ‑900 ) ( AZ‑204 In progress )
 
 Practices: Clean architecture, README‑driven development, CI/CD basics
 
