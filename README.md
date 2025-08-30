@@ -10,6 +10,7 @@ Frameworks: .NET Core, ASP.NET, Angular
 Cloud: Azure ( AZ‑900 ) ( AZ‑204 In progress )
 
 Work experience highlights
+
 HES (Head‑And‑System) — Angular, .NET Core, Leaflet, Kendo: Built 4 dashboards (Alerts, Smart Parameters, Live Data, Live Statistics) and 10+ analytical charts; delivered Leaflet heatmaps for city‑wide meter‑usage analysis; shipped configuration modules (Alerts, Group Meter, Meter, DCU, Device Category); implemented Smart City Surat geo‑hierarchy with Kendo TreeView.
 
 MDM (Meter‑Data‑Management) — Angular, .NET Core, Leaflet: Implemented 5 dashboards (On‑Demand, MDM, Comprehensive Analysis, NMS, Assets); added dynamic power‑supply chain hierarchy in Asset Management; produced multiple reports; resolved legacy issues in User Management; added dynamic dropdowns/config; enabled Leaflet‑based location tracking for meter migration.
